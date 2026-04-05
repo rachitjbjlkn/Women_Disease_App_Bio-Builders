@@ -89,7 +89,7 @@ Rachit Rahaman · Prineeta Saha · Ishika Thapa · Ankita Patra · Sudipta Paria
 - Patient demographics + clinical findings + recommendations
 - One-click download directly from the app
 
-### 💬 Biobuilders AI Chatbot (Gemini)
+### 💬 Biobuilders AI Chatbot
 - Powered by **Gemini 1.5 Flash**
 - 🎙️ **Voice recording** via `st.audio_input` — record, stop, send
 - 📎 **File attachments** — images, PDFs, audio files
