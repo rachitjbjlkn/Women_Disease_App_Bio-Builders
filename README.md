@@ -11,7 +11,7 @@
 [![Gemini AI](https://img.shields.io/badge/Gemini_AI-Integrated-4285F4?logo=google&logoColor=white)](https://aistudio.google.com)
 [![License](https://img.shields.io/badge/License-Educational-green)](LICENSE)
 
-> An enterprise-grade AI platform combining machine learning, deep learning image segmentation, automated medical reporting, and a Gemini-powered AI chatbot — built to assist in the early detection of **PCOS**, **Ovarian Cysts**, and **Breast Cancer**.
+> An enterprise-grade AI platform combining machine learning, deep learning image segmentation, automated medical reporting, and a hatbot — built to assist in the early detection of **PCOS**, **Ovarian Cysts**, and **Breast Cancer**.
 
 **Developed by the Biobuilders Team**  
 Rachit Rahaman · Prineeta Saha · Ishika Thapa · Ankita Patra · Sudipta Pariary  
@@ -90,7 +90,6 @@ Rachit Rahaman · Prineeta Saha · Ishika Thapa · Ankita Patra · Sudipta Paria
 - One-click download directly from the app
 
 ### 💬 Biobuilders AI Chatbot
-- Powered by **Gemini 1.5 Flash**
 - 🎙️ **Voice recording** via `st.audio_input` — record, stop, send
 - 📎 **File attachments** — images, PDFs, audio files
 - Streaming responses with animated text output
